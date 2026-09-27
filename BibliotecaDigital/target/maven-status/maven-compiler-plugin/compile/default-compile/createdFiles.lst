@@ -1,0 +1,11 @@
+com\example\bibliotecadigital\aplicacion\Principal.class
+com\example\bibliotecadigital\datos\LibroDatos.class
+com\example\bibliotecadigital\beans\CategoriaBeans.class
+com\example\bibliotecadigital\vista\frmBiblioteca$1.class
+com\example\bibliotecadigital\beans\LibroBeans.class
+com\example\bibliotecadigital\datos\CategoriaDatos.class
+com\example\bibliotecadigital\util\Conexion.class
+com\example\bibliotecadigital\datos\AutorDatos.class
+com\example\bibliotecadigital\vista\frmBiblioteca$2.class
+com\example\bibliotecadigital\vista\frmBiblioteca.class
+com\example\bibliotecadigital\beans\AutorBeans.class
