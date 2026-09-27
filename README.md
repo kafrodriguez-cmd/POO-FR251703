@@ -1,2 +1,4 @@
-# POO-FR251703
-Las actividades del ciclo
+# POO404
+Estudiantes
+-Kevin Alexander Figueroa Rodríguez
+-Cesar Daniel Trejo Rodríguez
