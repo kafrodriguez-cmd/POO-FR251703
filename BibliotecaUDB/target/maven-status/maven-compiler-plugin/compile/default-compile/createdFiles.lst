@@ -1,0 +1,5 @@
+udb\biblioteca\LibroBean.class
+udb\biblioteca\PrestamoBean.class
+udb\biblioteca\CategoriaBean.class
+udb\biblioteca\EstudianteBean.class
+udb\biblioteca\ConexionDB.class
