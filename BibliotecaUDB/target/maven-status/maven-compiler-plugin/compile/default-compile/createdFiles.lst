@@ -1,0 +1,12 @@
+controller\LibroController.class
+dao\LibroDAO.class
+util\Conexion.class
+dao\CategoriaDAO.class
+controller\PrestamoController.class
+models\PrestamoBean.class
+controller\EstudianteController.class
+dao\EstudianteDAO.class
+models\CategoriaBean.class
+models\EstudianteBean.class
+dao\PrestamoDAO.class
+models\LibroBean.class
